@@ -1,0 +1,14 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "npm",
+			"script": "build",
+			"path": "Code Sandbox/279-intro-to-jsx-completed",
+			"group": "build",
+			"problemMatcher": [],
+			"label": "npm: build - Code Sandbox/279-intro-to-jsx-completed",
+			"detail": "vite build"
+		}
+	]
+}
